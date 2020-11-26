@@ -295,7 +295,7 @@ textarea {
   border: none;
   border-radius: 0;
   box-sizing: border-box;
-  color: #ffffff;
+  color: #333;
   outline: none;
 }
 input[type="text"] ::placeholder,
